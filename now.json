@@ -1,5 +1,6 @@
 {
     "version": 2,
+    "name": "nodejs",
     "builds": [
         { "src": ".nuxt/*.js", "use": "@now/node" }
     ]
