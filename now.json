@@ -1,6 +1,0 @@
-{
-  "name": "nuxt-ssr-app",
-  "builds": [
-    { "src": "/.nuxt/*.js", "use": "@now/node" }
-  ]
-}
